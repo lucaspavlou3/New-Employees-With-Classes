@@ -1,2 +1,2 @@
 # New Employees With Classes
- Defining and maniuplating employees using classes in python
+ Defining and manipulating employees using classes in python
